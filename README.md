@@ -2,7 +2,7 @@
 
 I'm a data analyst with a passion for uncovering hidden insights, making hockey smarter, and turning raw data into real impact.
 
----
+
 
 ## 🏒 Featured Project
 
@@ -20,7 +20,7 @@ I'm a data analyst with a passion for uncovering hidden insights, making hockey 
 - SQL (basic querying & filtering)
 - GitHub (version control & collaboration)
 - Notion (organization & documentation)
-- 
+
 <!--
 **LysisVerum/LysisVerum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
