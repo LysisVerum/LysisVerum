@@ -6,7 +6,7 @@ I'm a data analyst with a passion for uncovering hidden insights, making hockey 
 
 ## 🏒 Featured Project
 
-### [🔗 NHL Value Forwards: Identifying Underpaid Players](https://github.com/YourUsername/nhl-underpaid-players)
+### [🔗 NHL Value Forwards: Identifying Underpaid Players](https://github.com/LysisVerum/nhl-underpaid-players)
 
 > In this project, I analyzed NHL salary and performance data to find forwards who deliver elite impact for low cap hits — ideal trade or free agency targets.  
 > I combined Points/$1M and xGF%/$1M into a custom Value Score and validated the approach by showing xGF% correlates strongly with team win% (R² = 0.53).  
